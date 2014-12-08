@@ -911,7 +911,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     practices_title: "尊重最佳实践"
     practices_description: "这是我们对您的承诺，即玩家，尽管这在法律用语中略显不足。"
     privacy_title: "隐私"
-#    privacy_description: "We will not sell any of your personal information."
+    privacy_description: "我们不会转卖您的任何个人信息。"
     security_title: "安全"
     security_description: "我们竭力保证您的个人信息安全性。作为一个开源项目，任何人都可以检讨并改善我们自由开放的网站的安全性。"
     email_title: "电子邮件"
